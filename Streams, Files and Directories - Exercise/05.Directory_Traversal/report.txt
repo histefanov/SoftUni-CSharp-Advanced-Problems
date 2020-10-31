@@ -1,0 +1,36 @@
+.xsd
+--WWAN_profile_v2.xsd - 0.710kb
+--WLAN_profile_v3.xsd - 0.961kb
+--WWAN_profile_v3.xsd - 1.156kb
+--WWAN_profile_v5.xsd - 1.822kb
+--WWAN_profile_v6.xsd - 1.983kb
+--LAN_profile_v1.xsd - 2.188kb
+--WLAN_profile_v2.xsd - 2.280kb
+--WWAN_profile_v7.xsd - 2.596kb
+--LAN_policy_v1.xsd - 3.391kb
+--OneX_v1.xsd - 5.817kb
+--WWAN_profile_v1.xsd - 6.056kb
+--WLANAP_profile_v1.xsd - 7.371kb
+--WLAN_policy_v1.xsd - 7.448kb
+--WFD_LEGACY_profile_v1.xsd - 7.729kb
+--WFD_profile_v1.xsd - 7.796kb
+--WWAN_profile_v4.xsd - 14.502kb
+--WLAN_profile_v1.xsd - 18.287kb
+.cs
+--Program.cs - 0.909kb
+--Program1.cs - 1.517kb
+--Bunnies.cs - 5.697kb
+.pdf
+--Proof_Of_Study_Translated.pdf - 401.197kb
+--MedHr.pdf - 550.461kb
+--DiplomaOrig.pdf - 1491.819kb
+.xlsx
+--Spisak-spechelili.xlsx - 1075.234kb
+--Spisak-spechelili-populnen.xlsx - 1079.002kb
+--Spisak-spechelili_populnen.xlsx - 1079.101kb
+.log
+--sammui.log - 0.130kb
+--mrt.log - 2.068kb
+.LOG
+--PASSWD.LOG - 0.000kb
+--NetSetup.LOG - 0.891kb
