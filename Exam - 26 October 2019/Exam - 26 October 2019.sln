@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dating App", "Dating App\Dating App.csproj", "{AEB32B08-A323-4251-BE70-A805A1796709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book Worm", "Book Worm\Book Worm.csproj", "{A01C86D7-D619-435C-89E4-EA8C906F230D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbits", "Rabbits\Rabbits.csproj", "{3DB2E4A7-FBB4-44C9-B809-AEF8E4BE7C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB32B08-A323-4251-BE70-A805A1796709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB32B08-A323-4251-BE70-A805A1796709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB32B08-A323-4251-BE70-A805A1796709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB32B08-A323-4251-BE70-A805A1796709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01C86D7-D619-435C-89E4-EA8C906F230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01C86D7-D619-435C-89E4-EA8C906F230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01C86D7-D619-435C-89E4-EA8C906F230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01C86D7-D619-435C-89E4-EA8C906F230D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB2E4A7-FBB4-44C9-B809-AEF8E4BE7C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB2E4A7-FBB4-44C9-B809-AEF8E4BE7C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB2E4A7-FBB4-44C9-B809-AEF8E4BE7C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB2E4A7-FBB4-44C9-B809-AEF8E4BE7C74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B740C202-A9BA-43DC-8766-BF7E41EA8272}
+	EndGlobalSection
+EndGlobal

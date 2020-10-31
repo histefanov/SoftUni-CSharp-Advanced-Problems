@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flower Wreaths", "ConsoleApp1\Flower Wreaths.csproj", "{9E1930DD-910A-4141-B3DC-F217F69CD46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee", "Bee\Bee.csproj", "{228B69A4-96BA-4CC1-8A5B-BF9E3B833D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetClinic", "VetClinic\VetClinic.csproj", "{775544E3-2714-44A6-B618-5A5296A05C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1930DD-910A-4141-B3DC-F217F69CD46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1930DD-910A-4141-B3DC-F217F69CD46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1930DD-910A-4141-B3DC-F217F69CD46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1930DD-910A-4141-B3DC-F217F69CD46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228B69A4-96BA-4CC1-8A5B-BF9E3B833D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228B69A4-96BA-4CC1-8A5B-BF9E3B833D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228B69A4-96BA-4CC1-8A5B-BF9E3B833D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228B69A4-96BA-4CC1-8A5B-BF9E3B833D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775544E3-2714-44A6-B618-5A5296A05C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775544E3-2714-44A6-B618-5A5296A05C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775544E3-2714-44A6-B618-5A5296A05C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775544E3-2714-44A6-B618-5A5296A05C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11E4BB5-43AE-4153-BC5D-ECC15BDBDB48}
+	EndGlobalSection
+EndGlobal
